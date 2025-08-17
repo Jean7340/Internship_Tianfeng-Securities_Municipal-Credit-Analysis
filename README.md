@@ -36,8 +36,8 @@ My work involved merging **quantitative financial modeling** with **qualitative 
 ---
 
 ## 📂 Repository Content  
-- `Urban Investment Companies_Research Summary.pdf` – Presentation summarizing research findings.  
-- `永煤违约，还有哪些煤企风险较大？.pdf` – Report analyzing Yongmei’s default and related coal enterprise risks.  
+- [Urban Investment Companies_Research Summary.pdf](Urban%20Investment%20Companies_Research%20Summary.pdf) – Presentation summarizing research findings.  
+- [永煤违约，还有哪些煤企风险较大？.pdf](永煤违约，还有哪些煤企风险较大？.pdf) – Report analyzing Yongmei’s default and related coal enterprise risks.  
 - Supporting notes and datasets.  
 
 ---
