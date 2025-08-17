@@ -16,7 +16,8 @@ My work involved merging **quantitative financial modeling** with **qualitative 
 - Built and cleaned datasets on 40+ municipal SOEs, covering revenue, debt maturity, cash flow, and fiscal support.  
 - Applied **descriptive statistics** (growth rates, averages, ratios) and **trend analysis** to validate financial health over time.  
 - Conducted **scenario testing/stress-testing** in Excel to measure repayment capacity under different fiscal support assumptions.
-- ![Dataset Sample](Datasets_Sample.png)
+
+ ![Dataset Sample](Datasets_Sample.png)
 
 ### Credit Risk Evaluation  
 - Performed **financial ratio analysis** (debt-to-asset, interest coverage, operating margin, cash-to-debt) to benchmark issuers.  
